@@ -25,7 +25,7 @@ let colours =
     "r": "#f88",
     "y": "#fff382",
     "p": "#fb82ff",
-    "b": "#000"
+    "e": "#000"
 };
 let history = [context.getImageData(0, 0, canvas.width, canvas.height)];
 
